@@ -1,3 +1,5 @@
+## Del anterior problema en PYTHON y WEKA realice un árbol de decisión basado en entropía, compare los resultados, esto debe repetirse al menos 10 splits y comparar las matrices de confusión y obtener la confiabilidad. Se recomienda comparar media y mediana de los resultados.
+### Link: https://drive.google.com/file/d/1JWU7VadICVfuMvTySpwkTdN1-3mYb-c8/view?usp=sharing
 ## Classifier Model - Weka
 ![classifier_model](https://user-images.githubusercontent.com/39333761/135214056-998dd053-5bca-4b7c-af77-cd6f8c934a7f.png)
 ## Summary - Weka

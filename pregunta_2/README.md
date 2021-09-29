@@ -3,11 +3,11 @@
 ![image](https://user-images.githubusercontent.com/39333761/135205288-12288d78-d0e5-4f31-b652-98fcaaad684a.png)
 
 ## 1 Discretize
-  ![discretize_weka_netflix](https://user-images.githubusercontent.com/39333761/135205785-70d96867-690a-4311-95ef-cddbd445b984.png)
+  ![discretize_weka_netflix](https://user-images.githubusercontent.com/39333761/135206289-037b0664-6ed1-4f4a-8edb-ea111e434de4.png)
 
 ## 2 Normalize
 ![normalize_weka_netflix](https://user-images.githubusercontent.com/39333761/135205781-bda46061-0018-42ad-a607-9b67199ad79f.png)
 
 ## 3 NumericCleaner
 
-![numericCleaner_weka_netflix](https://user-images.githubusercontent.com/39333761/135205771-fa72564a-4a7c-4578-9746-b93414250d10.png)
+![numericCleaner_weka_netflix](https://user-images.githubusercontent.com/39333761/135206188-5195f13e-5b70-4d0d-aea8-8ff98d7b2fb9.png)
